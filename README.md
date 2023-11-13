@@ -1,4 +1,5 @@
 index.html:
+
   code.js... just shows/hides the cards when clicking them.
 
 index-game.html:
